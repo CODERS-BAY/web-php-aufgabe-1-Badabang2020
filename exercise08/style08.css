@@ -1,0 +1,28 @@
+body {
+  background-color: #0000007e;
+  margin: 2.5rem 2.5rem;
+  font-size: 150%;
+}
+
+ul li {
+  line-height: 150%;
+}
+
+.nettoSum {
+  background-color: #00ff00;
+  width: 25%;
+}
+
+.salesTaxSum {
+  background-color: #ff8800;
+  width: 25%;
+}
+
+.bruttoSum {
+  background-color: #ff0000;
+  width: 25%;
+}
+
+input {
+  background-color: #f1e20d;
+}
